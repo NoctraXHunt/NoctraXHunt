@@ -5,7 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NoctraXHunt&label=Neon+Trace&color=9D4EDD&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=NoctraXHunt&label=PROFILE+VIEWS&style=for-the-badge&color=7f00ff" />
+  <img src="https://img.shields.io/github/followers/NoctraXHunt?label=FOLLOWERS&style=for-the-badge&color=00d4ff" />
+  <img src="https://img.shields.io/github/stars/NoctraXHunt?label=TOTAL+STARS&style=for-the-badge&color=ff004c" />
 </p>
 
 ---
