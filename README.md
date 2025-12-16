@@ -1,4 +1,4 @@
-# 🧿 I'm XNoctra
+# Hello I'm XNoctra
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=700&color=9D4EDD&center=true&vCenter=true&width=720&lines=I'm+XNoctra;Grey+Hat+Hacker;Bug+Bounty+%7C+CTF+Player;Automate+Exploit+%7C+Have+Fun;Living+in+the+Neon+Grey" />
@@ -41,7 +41,7 @@ Main goal?
 ## 🧬 Skill Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,ruby,go,perl,xml,linux,nodejs,fastapi,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,ruby,go,perl,linux,nodejs,fastapi,git,github&theme=dark" />
 </p>
 
 <p align="center">
