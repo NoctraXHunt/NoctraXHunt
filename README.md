@@ -1,7 +1,7 @@
-# Hello I'm XNoctra
+# 🔮Hello I'm XNoctra
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=700&color=9D4EDD&center=true&vCenter=true&width=720&lines=I'm+XNoctra;Grey+Hat+Hacker;Bug+Bounty+%7C+CTF+Player;Automate+Exploit+%7C+Have+Fun;Living+in+the+Neon+Grey" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=700&color=9D4EDD&center=true&vCenter=true&width=720&lines=I'm+XNoctra;Grey+Hat+Hacker;Bug+Bounty+%7C+CTF+Player;Automate+Exploit+%7C+Have+Fun" />
 </p>
 
 <p align="center">
@@ -24,8 +24,8 @@ Hacking is very very cool I really like it
 
 - **Name**: XNoctra
 - **From**: Indonesian
-- **Greyhat Hacker** | **Cyber Security** | **Bug Hunter**|**Web Developer** | **CTF Player**
-- i have experience in cracking,web development,hacking,bug Hunting,ctf.
+- **Greyhat Hacker** | **Cyber Security** | **Bug Hunter** | **Web Developer** | **CTF Player**
+- i have experience in cracking,web development,hacking,bug Hunting,ctf,OSINT.
 - **I am a hacker**
 - Improving knowledge in **Website Vulnerabilities**
 - Trying to learn new things
@@ -35,8 +35,8 @@ Hacking is very very cool I really like it
 </details>
 <br>
 
-Main goal?  
-**Have fun, learn deeply, and break systems to understand them.**
+`Main goal?`
+> ***Have fun, learn deeply, and break systems to understand them.***
 
 ---
 
@@ -70,8 +70,8 @@ Main goal?
 
 <p align="center">
 <a href="https://github.com/NoctraXHunt">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NoctraXHunt&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NoctraXHunt&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NoctraXHunt&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NoctraXHunt&layout=compact&langs_count=8&theme=algolia"/>
   <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NoctraXHunt&theme=algolia"/>
   <img src="https://raw.githubusercontent.com/maxisandoval37/maxisandoval37/output/github-contribution-grid-snake-dark.svg" />
   
