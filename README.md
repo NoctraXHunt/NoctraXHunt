@@ -80,7 +80,6 @@ Hacking is very very cool I really like it
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NoctraXHunt&theme=react-dark&hide_border=true" />
 </a>
 </p>
-
 ---
 
 ## 🌐 Contact
