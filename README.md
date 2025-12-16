@@ -57,12 +57,10 @@ Hacking is very very cool I really like it
 ## 🧬 Skill Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,ruby,go,perl,linux,nodejs,fastapi,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,ruby,go,perl,php,bash,linux,nodejs,fastapi,react,mysql,mongodb,git,github&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=terminal&theme=dark" />
-  <br/>
   <sub>Linux • Termux • CLI Environment</sub>
 </p>
 
