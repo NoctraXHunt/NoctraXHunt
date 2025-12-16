@@ -66,13 +66,13 @@ Main goal?
 
 ---
 
-### 📊 &nbsp;GitHub Analytics 
+###📊 &nbsp;GitHub Analytics 
 
 <p align="center">
 <a href="https://github.com/NoctraXHunt">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NoctraXHunt &show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NoctraXHunt &layout=compact&langs_count=8&theme=algolia"/>
-  <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NoctraXHunt &theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NoctraXHunt&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NoctraXHunt&layout=compact&langs_count=8&theme=algolia"/>
+  <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NoctraXHunt&theme=algolia"/>
   <img src="https://raw.githubusercontent.com/maxisandoval37/maxisandoval37/output/github-contribution-grid-snake-dark.svg" />
   
   > *Every block is time spent in the dark.*
