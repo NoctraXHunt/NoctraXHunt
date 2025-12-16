@@ -15,11 +15,25 @@
 > *Not white. Not black.*  
 > *Only grey — illuminated by neon.*
 
-I’m **XNoctra**, a **Grey Hat Hacker** who enjoys:
-- 🐞 Bug bounty hunting  
-- 🧩 Capture The Flag (CTF) challenges  
-- ⚙️ Building automated exploit & testing tools  
-- 🌐 Researching web & infrastructure weaknesses  
+I’m **XNoctra** **Grey Hat Hacker** or a **Cyber Security**
+I am a student who is interested in the world of **HACKING**.
+Hacking is very very cool I really like it
+
+<details>
+  <summary>More about me</summary>
+
+- **Name**: XNoctra
+- **From**: Indonesian
+- **Greyhat Hacker** | **Cyber Security** | **Bug Hunter**|**Web Developer** | **CTF Player**
+- i have experience in cracking,web development,hacking,bug Hunting,ctf.
+- **I am a hacker**
+- Improving knowledge in **Website Vulnerabilities**
+- Trying to learn new things
+- Trying to understand **Ai Engineer**
+- I’m currently learning **everything**
+
+</details>
+<br>
 
 Main goal?  
 **Have fun, learn deeply, and break systems to understand them.**
@@ -52,39 +66,20 @@ Main goal?
 
 ---
 
-## 📊 Language Usage
+### 📊 &nbsp;GitHub Analytics 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoctraXHunt&layout=compact&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/NoctraXHunt">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NoctraXHunt &show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NoctraXHunt &layout=compact&langs_count=8&theme=algolia"/>
+  <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NoctraXHunt &theme=algolia"/>
+  <img src="https://raw.githubusercontent.com/maxisandoval37/maxisandoval37/output/github-contribution-grid-snake-dark.svg" />
+  
+  > *Every block is time spent in the dark.*
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NoctraXHunt&theme=react-dark&hide_border=true" />
+</a>
 </p>
-
----
-
-## 📈 GitHub Core Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NoctraXHunt&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Sneak
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NoctraXHunt/NoctraXHunt/output/github-contribution-grid-snake.gif" />
-</p>
-
-> *A silent process crawling through commits.*
-
----
-
-## 🧠 3D Contribution
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NoctraXHunt/NoctraXHunt/output/profile-3d-contrib/profile-night-rainbow.png" />
-</p>
-
-> *Every block is time spent in the dark.*
 
 ---
 
