@@ -1,36 +1,75 @@
-# README
+# XNoctra
+### Grey Hat | Security Research & Exploitation
 
-## Welcome to NoctraX Hunt
-
-This project is designed to provide a sophisticated and elegant experience with enhanced styling elements that cater to a modern aesthetic.
-
-### Aesthetic Overview
-- **Darker Theme**: Our design philosophy embraces a darker theme to enhance visual comfort while browsing.
-- **Neon Aesthetics**: Find visually striking elements highlighted with neon colors to make the interface pop.
-- **Enhanced Formatting**: Improved formatting for better readability and engagement.
-
-## Features
-- A modern interface that incorporates elements typical of blackhat styling while maintaining user accessibility and engagement.
-
-### Visual Elements
-1. **Background:** Dark gradients and shadows for depth.
-2. **Fonts:** A mix of sleek, modern fonts with a neon glow for titles and headings.
-3. **Interactive Elements:** Buttons and links styled with hover effects that showcase a neon glow.
-
-### Installation
-Instructions to set up the project are as follows:
-```bash
-# Clone the repository
-git clone https://github.com/NoctraXHunt/NoctraXHunt.git
-# Change to the project directory
-cd NoctraXHunt
-# Install dependencies
-npm install
-```
-
-### Contributing
-We welcome contributions from the community. To contribute, please fork the repository, create a new branch, make your changes, and submit a pull request.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=600&color=00FF41&center=true&vCenter=true&width=780&lines=SECURITY+RESEARCH;WEB+%26+API+EXPLOITATION;AUTOMATION+%26+TOOLING;NO+NOISE.+JUST+RESULTS." />
+</p>
 
 ---
 
-Thank you for exploring our project! We hope you find the experience elegant and sophisticated.
+## PROFILE
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NoctraXHunt&style=flat-square&color=00FF41" />
+  <img src="https://img.shields.io/github/followers/NoctraXHunt?style=flat-square&color=0D1117&labelColor=00FF41" />
+  <img src="https://img.shields.io/github/stars/NoctraXHunt?style=flat-square&color=0D1117&labelColor=00FF41" />
+</p>
+
+---
+
+## ABOUT
+
+Grey hat researcher focused on testing systems beyond intended limits.  
+Interested in exploitation, automation, and understanding failure paths.
+
+I don’t chase noise. I document results.
+
+---
+
+## FOCUS
+
+- Web & API Exploitation  
+- Vulnerability Research  
+- Security Automation  
+- Custom Tooling  
+- CTF & Practical Testing  
+
+---
+
+## STACK
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,js,nodejs,python,php,cpp,go,fastapi,react,mysql,mongodb,git,github&theme=dark&perline=8" />
+</p>
+
+<p align="center">
+  Linux • CLI • Kali / Parrot • Termux
+</p>
+
+---
+
+## STATS
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=NoctraXHunt&show_icons=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=9f9f9f&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoctraXHunt&layout=compact&bg_color=0D1117&title_color=00FF41&text_color=9f9f9f&hide_border=true" />
+</p>
+
+---
+
+## CONTACT
+
+<p align="center">
+  <a href="https://t.me/XNoctra">
+    <img src="https://img.shields.io/badge/Telegram-0D1117?style=flat-square&logo=telegram&logoColor=00FF41" />
+  </a>
+  <a href="https://github.com/NoctraXHunt">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=00FF41" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Security research is about knowing where things break.</sub>
+</p>
