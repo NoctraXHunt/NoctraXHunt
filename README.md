@@ -1,102 +1,36 @@
-# 🔮Hello I'm XNoctra
+# README
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=700&color=9D4EDD&center=true&vCenter=true&width=720&lines=I'm+XNoctra;Grey+Hat+Hacker;Bug+Bounty+%7C+CTF+Player;Automate+Exploit+%7C+Have+Fun" />
-</p>
+## Welcome to NoctraX Hunt
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NoctraXHunt&label=PROFILE+VIEWS&style=for-the-badge&color=7f00ff" />
-  <img src="https://img.shields.io/github/followers/NoctraXHunt?label=FOLLOWERS&style=for-the-badge&color=00d4ff" />
-  <img src="https://img.shields.io/github/stars/NoctraXHunt?label=TOTAL+STARS&style=for-the-badge&color=ff004c" />
-</p>
+This project is designed to provide a sophisticated and elegant experience with enhanced styling elements that cater to a modern aesthetic.
 
----
+### Aesthetic Overview
+- **Darker Theme**: Our design philosophy embraces a darker theme to enhance visual comfort while browsing.
+- **Neon Aesthetics**: Find visually striking elements highlighted with neon colors to make the interface pop.
+- **Enhanced Formatting**: Improved formatting for better readability and engagement.
 
-## 🌌 Identity
+## Features
+- A modern interface that incorporates elements typical of blackhat styling while maintaining user accessibility and engagement.
 
-> *Not white. Not black.*  
-> *Only grey — illuminated by neon.*
+### Visual Elements
+1. **Background:** Dark gradients and shadows for depth.
+2. **Fonts:** A mix of sleek, modern fonts with a neon glow for titles and headings.
+3. **Interactive Elements:** Buttons and links styled with hover effects that showcase a neon glow.
 
-I’m **XNoctra** **Grey Hat Hacker** or a **Cyber Security**
-I am a student who is interested in the world of **HACKING**.
-Hacking is very very cool I really like it
+### Installation
+Instructions to set up the project are as follows:
+```bash
+# Clone the repository
+git clone https://github.com/NoctraXHunt/NoctraXHunt.git
+# Change to the project directory
+cd NoctraXHunt
+# Install dependencies
+npm install
+```
 
-<details>
-  <summary>More about me</summary>
-
-- **Name**: XNoctra
-- **From**: Indonesian
-- **Greyhat Hacker** | **Cyber Security** | **Bug Hunter** | **Web Developer** | **CTF Player**
-- i have experience in cracking,web development,hacking,bug Hunting,ctf,OSINT.
-- **I am a hacker**
-- Improving knowledge in **Website Vulnerabilities**
-- Trying to learn new things
-- Trying to understand **Ai Engineer**
-- I’m currently learning **everything**
-
-</details>
-<br>
-
-`Main goal?`
-> ***Have fun, learn deeply, and break systems to understand them.***
+### Contributing
+We welcome contributions from the community. To contribute, please fork the repository, create a new branch, make your changes, and submit a pull request.
 
 ---
 
-## 🧠 What I Build
-
-- 🔹 Automated exploit & scanner tools  
-- 🔹 Website stress-testing & simulation tools  
-- 🔹 CLI bots & security automation  
-- 🔹 Web dashboards for tooling  
-- 🔹 Experimental offensive-security scripts  
-
-> *Built for research, challenge, and curiosity.*
-
----
-
-## 🧬 Skill Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,ruby,perl,php,bash,linux,nodejs,fastapi,react,mysql,mongodb,git,github&theme=dark" />
-</p>
-
-<p align="center">
-  <sub>Linux • Termux • CLI Environment</sub>
-</p>
-
----
-
-### 📊 &nbsp;GitHub Analytics 
-
-<p align="center">
-<a href="https://github.com/NoctraXHunt">
-  <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NoctraXHunt&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NoctraXHunt&layout=compact&langs_count=8&theme=algolia"/>
-  <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NoctraXHunt&theme=algolia"/>
-  <img src="https://raw.githubusercontent.com/maxisandoval37/maxisandoval37/output/github-contribution-grid-snake-dark.svg" />
-  
-  > *Every block is time spent in the dark.*
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NoctraXHunt&theme=react-dark&hide_border=true" />
-</a>
-</p>
----
-
-## 🌐 Contact
-
-<p align="center">
-  <a href="https://t.me/XNoctra">
-    <img src="https://img.shields.io/badge/Telegram-9D4EDD?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🌑 Final Note
-
-> *I don’t hack for fame.*  
-> *I hack for curiosity.*
-
-<p align="center">
-  <b>— XNoctra</b>
-</p>
+Thank you for exploring our project! We hope you find the experience elegant and sophisticated.
